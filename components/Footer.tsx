@@ -1,18 +1,9 @@
 'use client';
 
 import { profile } from '@/config/profile';
-import { Linkedin, Mail } from 'lucide-react';
-import { Logo } from '@/components/Logo';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
-
-  const links = [
-    { label: 'Work', href: '#work' },
-    { label: 'Experience', href: '#experience' },
-    { label: 'About', href: '#why-me' },
-    { label: 'Contact', href: '#contact' },
-  ];
 
   return (
     <footer className="border-t border-purple-900/50 bg-dark-secondary/70">

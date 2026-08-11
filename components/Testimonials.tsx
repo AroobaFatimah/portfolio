@@ -1,6 +1,5 @@
 'use client';
 
-import Image from 'next/image';
 import { motion, AnimatePresence } from 'framer-motion';
 import { profile } from '@/config/profile';
 import { Star, Quote, MapPin, ChevronLeft, ChevronRight } from 'lucide-react';
