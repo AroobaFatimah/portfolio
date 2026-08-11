@@ -7,7 +7,7 @@ export const profile = {
   role: "Software Engineer",
   email: "aroobafatimaa@gmail.com",
   linkedIn: "https://www.linkedin.com/in/arooba-fatima/",
-  resume: "/images/certificates/arooba-fatima-resume.pdf",
+  resume: "/portfolio/images/certificates/arooba-fatima-resume.pdf",
   location: "Pakistan",
 
   vision: {
@@ -111,7 +111,7 @@ export const profile = {
       certificates: [
         {
           label: "Experience Certificate",
-          url: "/images/certificates/enigmatix-2025-certificate.jpeg",
+          url: "/portfolio/images/certificates/enigmatix-2025-certificate.jpeg",
         },
       ],
     },
@@ -125,7 +125,7 @@ export const profile = {
       certificates: [
         {
           label: "Experience Certificate",
-          url: "/images/certificates/arooba-dmarclytics-certificate.pdf",
+          url: "/portfolio/images/certificates/arooba-dmarclytics-certificate.pdf",
         },
       ],
     },
@@ -139,7 +139,7 @@ export const profile = {
       certificates: [
         {
           label: "Internship Certificate",
-          url: "/images/certificates/arooba-devfor-certificate.pdf",
+          url: "/portfolio/images/certificates/arooba-devfor-certificate.pdf",
         },
       ],
     },
@@ -150,7 +150,7 @@ export const profile = {
     period: "2020 — 2024",
     university: "The Islamia University of Bahawalpur",
     badges: ["Gold Medalist", "1st Ranked"],
-    certificate: "/images/certificates/merit-certificate.jpeg",
+    certificate: "/portfolio/images/certificates/merit-certificate.jpeg",
   },
 
   testimonials: [
@@ -161,7 +161,7 @@ export const profile = {
       company: "Upwork",
       location: "Germany",
       rating: 5.0,
-      screenshot: "/images/testimonials/upwork-feedback.jpeg",
+      screenshot: "/portfolio/images/testimonials/upwork-feedback.jpeg",
     },
   ],
 
@@ -170,32 +170,32 @@ export const profile = {
       title: "Student of the Year",
       description: "Academic Excellence • Leadership • Impact",
       icon: "🏆",
-      certificate: "/images/certificates/student-of-year.jpg",
+      certificate: "/portfolio/images/certificates/student-of-year.jpg",
     },
     {
       title: "Event Host",
       description: "Public Speaking • Communication • Confidence",
       icon: "🎤",
-      image: "/images/beyond-code/hosting.jpg",
-      portrait: "/images/hero/hosting-img.png",
+      image: "/portfolio/images/beyond-code/hosting.jpg",
+      portrait: "/portfolio/images/hero/hosting-img.png",
     },
     {
       title: "Student Club Member",
       description: "Leadership • Ownership • Collaboration",
       icon: "🤝",
-      certificate: "/images/certificates/students-club.jpg",
+      certificate: "/portfolio/images/certificates/students-club.jpg",
     },
     {
       title: "Workshop Organizer",
       description: "Knowledge Sharing • Mentoring • Community",
       icon: "💻",
-      certificate: "/images/certificates/wordpress.jpg",
+      certificate: "/portfolio/images/certificates/wordpress.jpg",
     },
     {
       title: "Event Organizer",
       description: "Planning • Coordination • Execution",
       icon: "🎉",
-      certificate: "/images/certificates/organizing-annual-dinner.jpg",
+      certificate: "/portfolio/images/certificates/organizing-annual-dinner.jpg",
     },
   ],
 
@@ -210,7 +210,7 @@ export const profile = {
         "Designed and implemented a guided onboarding flow with website verification and platform integrations.",
       outcome:
         "Delivered a smoother setup experience that helped users get started faster.",
-      image: "/images/work/onboarding.png",
+      image: "/portfolio/images/work/onboarding.png",
     },
     {
       id: "seo",
@@ -221,7 +221,7 @@ export const profile = {
       solution:
         "Developed keyword research, rank tracking, and competitor analysis features within a unified workspace.",
       outcome: "Made SEO research faster, simpler, and easier to act on.",
-      image: "/images/work/keyword-research.png",
+      image: "/portfolio/images/work/keyword-research.png",
     },
     {
       id: "ai-content",
@@ -232,7 +232,7 @@ export const profile = {
       solution:
         "Built AI-assisted writing, SEO optimization, and publishing experiences.",
       outcome: "Enabled teams to create optimized content more efficiently.",
-      image: "/images/work/campaign-management.png",
+      image: "/portfolio/images/work/campaign-management.png",
     },
     {
       id: "campaigns",
@@ -245,7 +245,7 @@ export const profile = {
         "Developed campaign creation, performance monitoring, and conversion tracking features.",
       outcome:
         "Provided a centralized experience for managing and optimizing campaigns.",
-      image: "/images/work/campaign-management.png",
+      image: "/portfolio/images/work/campaign-management.png",
     },
     {
       id: "gbp",
@@ -258,7 +258,7 @@ export const profile = {
         "Built features for review management, business posts, profile optimization, and local performance tracking.",
       outcome:
         "Helped businesses maintain a stronger and more engaging online presence.",
-      image: "/images/work/gbp.png",
+      image: "/portfolio/images/work/gbp.png",
     },
     {
       id: "email",
@@ -270,7 +270,7 @@ export const profile = {
       solution:
         "Developed inbox placement testing, email authentication, and deliverability analysis features.",
       outcome: "Helped identify delivery issues before launching email campaigns.",
-      image: "/images/work/email-deliverability.png",
+      image: "/portfolio/images/work/email-deliverability.png",
     },
     {
       id: "billing",
@@ -281,7 +281,7 @@ export const profile = {
       solution:
         "Built pricing, subscription management, usage tracking, and billing experiences.",
       outcome: "Made account management easier for users and growing teams.",
-      image: "/images/work/billing-subscriptions.png",
+      image: "/portfolio/images/work/billing-subscriptions.png",
     },
     {
       id: "property",
@@ -293,7 +293,7 @@ export const profile = {
       solution:
         "Developed property listing, search, filtering, and discovery experiences.",
       outcome: "Created a faster and more intuitive property search journey.",
-      image: "/images/work/property-rental.png",
+      image: "/portfolio/images/work/property-rental.png",
     },
   ],
 };

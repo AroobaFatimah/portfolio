@@ -170,7 +170,7 @@ export function Hero() {
               <div className="absolute inset-0 rounded-3xl bg-gradient-to-br from-purple-500/40 via-violet-500/25 to-indigo-500/30 blur-xl" />
               <div className="relative w-full h-full rounded-3xl overflow-hidden border-2 border-purple-500/40 shadow-2xl shadow-purple-500/20">
                 <Image
-                  src="/images/hero/profile-pic.png"
+                  src="/portfolio/images/hero/profile-pic.png"
                   alt={profile.name}
                   fill
                   className="object-cover object-top scale-110"
